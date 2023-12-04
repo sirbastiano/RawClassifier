@@ -6,7 +6,7 @@ This GitHub repository is dedicated to an AI-based classification project using 
 ## Models and Performance
 - **EfficientNet B0 Lite Model:** Customized for this dataset, focusing on efficiency and accuracy.
 - **MobileViT Model:** Incorporates Vision Transformers with MobileNet, optimized for the dataset.
-- **Performance:** Both models achieve a test accuracy exceeding 93%, demonstrating their effectiveness in vessel classification tasks with AMP (FP16).
+- **Performance:** Both models achieve a test accuracy exceeding 85%, demonstrating their effectiveness in vessel classification tasks with AMP (FP16).
 ![Grafo](3d_performance.png)
 
 ## Data Characteristics
